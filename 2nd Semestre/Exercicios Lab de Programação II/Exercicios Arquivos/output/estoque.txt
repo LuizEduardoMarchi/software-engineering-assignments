@@ -1,4 +1,0 @@
-123 Teclado 130 108.50
-124 Mouse 12 42.50
-125 Pendrive 125 25.50
-126 Monitor 57 750.00
