@@ -1,12 +1,12 @@
-# 📂 Atividades de Matrizes: Fundamentos e Operações Básicas
+# 📂 Matrix Activities: Fundamentals and Basic Operations
 
-Este diretório contém a primeira parte dos exercícios práticos sobre **Matrizes (Arrays Bidimensionais)**. O foco destas atividades iniciais é o domínio da manipulação de índices, cálculos de somatória por linhas e operações fundamentais de álgebra linear.
+This directory contains the first part of the practical exercises on **Matrices (Two-Dimensional Arrays)**. The focus of these initial activities is mastering index manipulation, row summation calculations, and fundamental linear algebra operations.
 
 ---
 
-## 📋 Descrição das Atividades (Tradução)
+## 📋 Activity Description
 
-Abaixo estão os enunciados traduzidos para as cinco atividades contidas nesta pasta:
+Below are the statements for the five activities contained in this folder:
 
 1.  **Matrix-Vector Product:** Given a real matrix $A_{m \times n}$ and a real vector $V$ with $n$ elements, determine the product of $A$ by $V$.
 2.  **Matrix Multiplication:** Calculate the product of two real matrices, $A_{m \times n}$ and $B_{n \times p}$.
@@ -16,16 +16,16 @@ Abaixo estão os enunciados traduzidos para as cinco atividades contidas nesta p
 
 ---
 
-## 📌 Contexto do Projeto
-* **Conversão de Formato:** Estas atividades foram originalmente resolvidas em papel durante as aulas e convertidas para o **Visualg** ao longo do semestre.
-* **Estado dos Arquivos:** Devido ao processo de redigitação manual, alguns exercícios intermediários das listas originais podem não estar presentes.
-* **Idioma do Código:** Embora este README utilize inglês para os enunciados, os arquivos de código (`.alg`) estão inteiramente em **Português** (variáveis, comandos e comentários).
+## 📌 Project Context
+* **Format Conversion:** These activities were originally solved on paper during classes and later converted to **Visualg** throughout the semester.
+* **File Status:** Due to the manual retyping process, some intermediate exercises from the original lists may not be present.
+* **Code Language:** Although this README uses English for the descriptions, the code files (`.alg`) are entirely in **Portuguese** (variables, commands, and comments).
 
-## 🚀 Como Executar
-Para rodar os algoritmos, utilize o **Visualg 3.0.7.0**.
+## 🚀 How to Run
+To execute the algorithms, use **Visualg 3.0.7.0**.
 
-1. Abra o **Visualg**.
-2. Vá em `Arquivo` > `Abrir` e escolha o arquivo da atividade desejada.
-3. Pressione `F9` para iniciar a execução.
+1. Open **Visualg**.
+2. Go to `File` > `Open` and select the desired activity file.
+3. Press `F9` to start execution.
 
 ---

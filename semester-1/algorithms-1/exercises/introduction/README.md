@@ -1,12 +1,12 @@
-# 📂 Atividade: Expressões Aritméticas e Fórmulas Matemáticas
+# 📂 Activity: Arithmetic Expressions and Mathematical Formulas
 
-Este diretório contém uma lista de 10 exercícios focados em **Algoritmos Sequenciais** e **Estruturas Condicionais Básicas**. O objetivo é aplicar fórmulas matemáticas (física, geometria e finanças) e manipular entrada/saída de dados no Visualg.
+This directory contains a list of 10 exercises focused on **Sequential Algorithms** and **Basic Conditional Structures**. The objective is to apply mathematical formulas (physics, geometry, and finance) and handle input/output operations in Visualg.
 
 ---
 
-## 📋 Descrição das Atividades (Translated)
+## 📋 Activity Description
 
-Abaixo estão os enunciados traduzidos para os algoritmos contidos nesta pasta:
+Below are the statements for the algorithms contained in this folder:
 
 1.  **User Data:** Read a name and age, then display the information back to the user.
 2.  **Successor & Predecessor:** Read a number and display its immediate successor and predecessor.
@@ -21,15 +21,15 @@ Abaixo estão os enunciados traduzidos para os algoritmos contidos nesta pasta:
 
 ---
 
-## 📌 Contexto do Projeto
-* **Conversão de Formato:** Estas atividades foram originalmente resolvidas em papel durante as aulas e convertidas para o **Visualg** recentemente.
-* **Nomenclatura:** Seguindo a padronização atual, os arquivos são nomeados como `exN.alg`.
-* **Idioma:** A documentação está em inglês, mas o código-fonte (variáveis e comentários) está em **Português**.
+## 📌 Project Context
+* **Format Conversion:** These activities were originally solved on paper during classes and later converted to **Visualg**.
+* **Naming Convention:** Following the current standardization, files are named as `exN.alg`.
+* **Language:** The documentation is in English, while the source code (variables and comments) is in **Portuguese**.
 
-## 🚀 Como Executar
-Utilize o **Visualg 3.0.7.0**.
+## 🚀 How to Run
+Use **Visualg 3.0.7.0**.
 
-1. Abra o arquivo `.alg`.
-2. Pressione `F9`.
+1. Open the `.alg` file.
+2. Press `F9`.
 
 ---
