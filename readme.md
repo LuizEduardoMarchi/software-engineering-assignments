@@ -21,7 +21,6 @@
 ## 📚 Summary
 
 - 📌 [About the project](#-about)
-- ⚠️ [Attention](#️-attention)
 - 🏗️ [Repository structure](#-repository-structure)
 - 🧰 [Technologies used](#-technologies-used)
 - 📁 [Project structure](#-project-structure)
@@ -41,10 +40,6 @@ This repository represents my journey through Software Engineering. It includes 
 * **Digitization:** Many algorithms were originally solved on paper and have been recently translated to code (using VisuAlg or manually) to complete this digital portfolio.
 * **Reconstruction:** Some files were rewritten from scratch or recovered because they were missing from the original college period.
 * **Disparity:** Due to the conversion from paper to digital, some variations in implementation style may exist.
-
-
-## ⚠️ Attention
-* The contents for Semester 2 and Semester 3 are not yet available, as they are still in progress. They will be added as soon as they are completed."
 
 ---
 
@@ -66,6 +61,11 @@ The projects are organized by semester and discipline:
 * Database Modeling
 * Robotics II
 
+### **4rd Semester**
+* object-oriented programming
+* Database Design
+
+
 ## 🧰 Technologies Used
 
 * **Languages:** C, C++, and Portugol (VisuAlg).
@@ -83,19 +83,24 @@ software-engineering-assignments/
 │       └── exercises/      <-- Topic-based practice
 ├── 2nd-semester/
 │   └── ...
-└── 3rd-semester/
+├── 3rd-semester/
+│   └── ...
+└── 4th-semester/
     └── ...
 ````
 
 ## 🧪 How to run the exercises
 Detailed execution steps are included in the **README.md** located inside each specific exercise or activity folder. Please refer to those files for compiler settings or VisuAlg instructions.
 
-## ⚙️ Learning Objectives
+## ⚙️ Learning Topics & Objectives
 
-The focus of these exercises is to master core programming concepts:
-* **Logic:** Functions, Structs, and recursion.
-* **Control Flow:** `if/else`, `switch case`, `for`, `while`, and `do-while`.
-* **Data Handling:** Vectors (Arrays) and Matrices.
+Key concepts covered across Software Engineering assignments:
+
+* **Core Programming & Memory:** Functions, Structs, Strings, File I/O, and Pointers.
+* **Data Structures:** Stacks, Queues, Linked Lists, Hash Tables, and Binary Search Trees.
+* **Algorithms & Analysis:** Sorting (Quick, Merge, Heap, etc.) and Big-O Time Complexity.
+* **Database Engineering (PostgreSQL):** ER Modeling, Normalization (1NF–3NF), Relational Algebra, DDL, DML, and Advanced Joins/Aggregations.
+* **Requirements Engineering:** Elicitation, Functional/Non-Functional, System, and Domain Requirements.
 
 ## 📊 Project Status
 
