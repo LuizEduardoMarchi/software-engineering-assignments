@@ -229,25 +229,3 @@ int main(void)
 
     return 0;
 }
-
-
-/*
-// Metodo para exibir os dados do cliente.
-void BancoX::exibirDadosCliente(int codigo, int clientes_cadastrados)
-{
-    // Loop de busca do usuario.
-    for (int i = 0; i < clientes_cadastrados; i++)
-    {
-        if(codigo = numero_conta)
-        {
-            cout << "\n\n==== Cliente ====\n" << endl;
-            cout << "Nome: " << Nome << endl;
-            cout << "Codigo: " << codigo << endl;
-            cout << "Saldo: " << saldo << endl;
-            cout << "Telefone: " << telefone << endl;
-            cout << "Endereco: " << endereco << endl; 
-        }
-    }
-}
-
-*/
